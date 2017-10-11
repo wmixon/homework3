@@ -16,7 +16,7 @@
         <fieldset>		
         <legend>Dynamic Forms</legend>		
         <form>
-        	<label>Text Alignment<input type="text" name="align"></label>
+        	<label>Text Alignment(Center, Left, Right) <input type="text" name="align"></label>
             <input type="reset">
             <br><br>
             
